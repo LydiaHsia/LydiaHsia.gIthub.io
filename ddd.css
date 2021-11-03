@@ -1,7 +1,31 @@
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-    border:10px solid pink;
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
+}
 
+img {
+  height: 100px;
+  width: 100px
+}
+
+.img-start {
+   border: 2px solid hotpink;
+}
+
+img-master {
+  border: 3px dashed yelloe:
+}
+
+.relative {
+  background: lightblue;
+  width: 500px;
+  height: 500px;
+  }
+
+.absolute {
+  background: plum;
+  width: 100px;
+  height: 100px;
 }
