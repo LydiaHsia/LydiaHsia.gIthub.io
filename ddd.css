@@ -5,21 +5,20 @@
   box-sizing: border-box;
 }
 
-
 img {
-  height: 200px;     identifier expected
-  width: 200px;
+  height: 100px;
+  width: 100px
 }
+
 .img-start {
    border: 2px solid hotpink;
 }
 
 img-master {
-  border: 3px dashed yellow;
+  border: 3px dashed yelloe:
 }
 
 .relative {
-  margin left: 35px;
   background: lightblue;
   width: 500px;
   height: 500px;
